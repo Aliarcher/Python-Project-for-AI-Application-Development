@@ -1,1 +1,1 @@
-# Python-Project-for-AI-Application-Development
+# This is Python Project for AI & Application Development coursera final project
