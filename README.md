@@ -1,1 +1,1 @@
-# This is Python Project for AI & Application Development coursera final project
+# This is Python Project for AI & Application Development course final project
